@@ -7,7 +7,7 @@ import java.util.List;
 abstract class Product<T> {
     private String name;
     private double price;
-    private String category; // Using String instead of enum
+    private String category;
 
     public Product(String name, double price, String category) {
         this.name = name;

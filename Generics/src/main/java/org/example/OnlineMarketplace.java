@@ -88,7 +88,7 @@ class ProductCatalog<T extends Product<?>> {
     }
 }
 
-// Main Class 
+// Main Class
 public class OnlineMarketplace {
     public static void main(String[] args) {
         ProductCatalog<Book> bookCatalog = new ProductCatalog<>();

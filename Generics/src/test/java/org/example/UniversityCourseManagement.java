@@ -48,6 +48,7 @@ public class UniversityCourseManagement {
         allCourses.add(historyAssignment);
         allCourses.add(aiResearch);
 
+        
         // Test if the wildcard method runs without errors
         Department.displayAllCourses(allCourses);
     }

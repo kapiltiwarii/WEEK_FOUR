@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UniversityCourseManagement {
+public class UniversityCourseManagementTest {
     private Department<ExamCourse> scienceDepartment;
     private Department<AssignmentCourse> artsDepartment;
     private Department<ResearchCourse> engineeringDepartment;

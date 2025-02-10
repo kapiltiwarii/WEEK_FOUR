@@ -1,5 +1,4 @@
 package org.example;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -117,6 +116,10 @@ class Department<T extends CourseType> {
         courses.add(course);
     }
 
+    public List<Course<T>> getCourses() {
+        return courses;
+    }
+
     public void displayCourses() {
         System.out.println("\nDepartment: " + departmentName);
         for (Course<T> course : courses) {
@@ -159,5 +162,14 @@ public class UniversityCourseManagement {
         scienceDepartment.displayCourses();
         artsDepartment.displayCourses();
         engineeringDepartment.displayCourses();
+
+        // Wildcard Method to display all courses
+        List<CourseType> allCourses = new ArrayList<>();
+        allCourses.add(physicsExam);
+        allCourses.add(historyAssignment);
+        allCourses.add(aiResearch);
+
+        System.out.println("\nAll Courses:");
+        Department.displayAllCourses(allCourses);
     }
 }

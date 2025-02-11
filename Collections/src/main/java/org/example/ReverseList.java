@@ -23,6 +23,7 @@ public class ReverseList {
         reverseList(arrayList);
         System.out.println("Reversed ArrayList: " + arrayList);
 
+        
         // Using LinkedList
         List<Integer> linkedList = new LinkedList<>(Arrays.asList(1, 2, 3, 4, 5));
         reverseList(linkedList);

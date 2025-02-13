@@ -5,6 +5,7 @@ import java.io.*;
 public class BufferedFileCopy {
     private static final int BUFFER_SIZE = 4; // 4 KB
 
+    
     public static void main(String[] args) {
         String sourceFile = "D:\\WEEK4\\Streams\\src\\main\\java\\org\\example/sample_1MB.txt";  // Replace with actual file
         String destinationBuffered = "D:\\WEEK4\\Streams\\src\\main\\java\\org\\example/destination.txt";

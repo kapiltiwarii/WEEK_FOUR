@@ -29,7 +29,7 @@ public class VotingSystem {
     // Find the winner
     public void findWinner() {
         String winner = Collections.max(voteCount.entrySet(), Map.Entry.comparingByValue()).getKey();
-        System.out.println("\n🏆 Winner: " + winner + " with " + voteCount.get(winner) + " votes!");
+        System.out.println(" Winner: " + winner + " with " + voteCount.get(winner) + " votes!");
     }
 
     public static void main(String[] args) {

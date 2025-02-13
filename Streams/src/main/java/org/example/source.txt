@@ -1,1 +1,2 @@
-Hello Capgemini We are studying Java
+Java is great. Java is powerful.
+Java is used worldwide. Programming in Java is fun.

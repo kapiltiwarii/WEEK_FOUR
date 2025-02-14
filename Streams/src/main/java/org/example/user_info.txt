@@ -1,5 +1,0 @@
-
-Name: Kapil
-Age: 19
-Favorite Language: Java
-------------------------

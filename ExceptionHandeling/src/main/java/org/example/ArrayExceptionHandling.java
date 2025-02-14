@@ -14,7 +14,7 @@ public class ArrayExceptionHandling {
 
             System.out.println("Enter " + size + " elements:");
             for (int i = 0; i < size; i++) {
-               // array[i] = scanner.nextInt();
+               array[i] = scanner.nextInt();
             }
 
             // Accept index to retrieve value

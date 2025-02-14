@@ -10,7 +10,7 @@ public class ArrayExceptionHandling {
             // Accept array size and elements
             System.out.print("Enter the size of the array: ");
             int size = scanner.nextInt();
-            Integer[] array = new Integer[size];
+            int[] array = new int[size];
 
             System.out.println("Enter " + size + " elements:");
             for (int i = 0; i < size; i++) {
@@ -28,6 +28,8 @@ public class ArrayExceptionHandling {
             System.out.println("Invalid index!");
         } catch (NullPointerException e) {
             System.out.println("Array is not initialized!");
+        } catch (Exception e){
+            System.out.println("Invalid Input! ");
         }
     }
 }

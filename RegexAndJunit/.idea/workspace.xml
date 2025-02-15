@@ -45,6 +45,7 @@
     "Application.ValidateLicencePlateNumber.executor": "Run",
     "JUnit.CalculatorExceptionTest.executor": "Run",
     "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.DatabaseConnectionTest.executor": "Run",
     "JUnit.ListManagerTest.executor": "Run",
     "JUnit.StringUtilsTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",

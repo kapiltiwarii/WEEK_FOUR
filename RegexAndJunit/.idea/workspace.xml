@@ -43,6 +43,7 @@
     "Application.UserNameCheck.executor": "Run",
     "Application.ValidHexColour.executor": "Run",
     "Application.ValidateLicencePlateNumber.executor": "Run",
+    "JUnit.CalculatorExceptionTest.executor": "Run",
     "JUnit.CalculatorTest.executor": "Run",
     "JUnit.ListManagerTest.executor": "Run",
     "JUnit.StringUtilsTest.executor": "Run",

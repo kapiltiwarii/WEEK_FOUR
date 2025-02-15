@@ -33,6 +33,7 @@
     "Application.CapitalizedWordsExtractor.executor": "Run",
     "Application.CensorBadWords.executor": "Run",
     "Application.EmailExtractor.executor": "Run",
+    "Application.IPAddressValidator.executor": "Run",
     "Application.LinkExtractor.executor": "Run",
     "Application.UserNameCheck.executor": "Run",
     "Application.ValidHexColour.executor": "Run",

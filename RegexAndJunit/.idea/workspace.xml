@@ -39,6 +39,7 @@
     "Application.LanguageExtractor.executor": "Run",
     "Application.LinkExtractor.executor": "Run",
     "Application.RepeatingWordsFinder.executor": "Run",
+    "Application.SSNValidator.executor": "Run",
     "Application.UserNameCheck.executor": "Run",
     "Application.ValidHexColour.executor": "Run",
     "Application.ValidateLicencePlateNumber.executor": "Run",

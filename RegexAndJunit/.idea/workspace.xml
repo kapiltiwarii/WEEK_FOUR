@@ -24,6 +24,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2t1r1TL5aZJkeOZJOtUznbkGsnU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +55,7 @@
     "JUnit.PasswordValidatorTest.executor": "Run",
     "JUnit.StringUtilsTest.executor": "Run",
     "JUnit.TaskManagerTest.executor": "Run",
+    "JUnit.TemperatureConverterTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

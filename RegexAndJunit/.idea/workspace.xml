@@ -48,6 +48,7 @@
     "JUnit.DatabaseConnectionTest.executor": "Run",
     "JUnit.ListManagerTest.executor": "Run",
     "JUnit.StringUtilsTest.executor": "Run",
+    "JUnit.TaskManagerTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

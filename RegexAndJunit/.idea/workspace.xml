@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce9194fa-22eb-463e-8eec-01a8adfcbc51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JunitQuestions/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/JunitQuestionsTest/StringUtilsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +48,7 @@
     "Application.ValidHexColour.executor": "Run",
     "Application.ValidateLicencePlateNumber.executor": "Run",
     "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.StringUtilsTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
